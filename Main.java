@@ -1,5 +1,6 @@
 /*
  * Test the use of the Color method
+ * @author Isaiah Rowe, Idrowe@wisc.edu, irowe
  */
 import java.util.*;
 
